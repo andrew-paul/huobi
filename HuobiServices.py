@@ -5,7 +5,7 @@
 # @QQ      : 375235513
 # @github  : https://github.com/KlausQIU
 
-from huobi_API.Utils import *
+from huobi_api.Utils import *
 
 '''
 Market data API
